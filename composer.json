@@ -1,0 +1,16 @@
+{
+    "name": "cloedy/tools",
+    "type": "lib",
+    "authors": [
+        {
+            "name": "cloedy",
+            "email": "skywangqj@gmail.com"
+        }
+    ],
+    "require": {},
+    "scripts":{
+        "post-create-project-cmd": [
+            "chmod a+x addtest"
+        ]
+    }
+}
